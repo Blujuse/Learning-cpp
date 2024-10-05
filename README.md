@@ -8,7 +8,7 @@ This repo has been created with [Visual Studio 2022](https://visualstudio.micros
 
 ## References
 
-For more in formation on cpp check out [this](cppreference.com).
+For more in formation on cpp check out [this](https://en.cppreference.com/w/).
 
 ## Notes
 
