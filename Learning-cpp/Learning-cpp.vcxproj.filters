@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Ch1-Getting-Started">
+      <UniqueIdentifier>{85363e68-132c-49ac-9495-1c133810ec12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch2-Data-Types">
+      <UniqueIdentifier>{03c56f2a-a4b1-43b9-8917-f4c0c62b8043}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch3-Structures-Classes-Pointers">
+      <UniqueIdentifier>{8e04f595-4b73-4143-bfeb-3440afde0a8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch4-Control-Flow">
+      <UniqueIdentifier>{4db3b900-b158-4735-9634-645237b47d76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch5-Functions">
+      <UniqueIdentifier>{3a35d87f-b617-450b-9a6f-6af6dcc6afb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch6-File-IO">
+      <UniqueIdentifier>{37e0f907-1dc0-4c42-89b3-73cac5f63dea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wlhps\Desktop\simpleprogram.cpp">
+      <Filter>Source Files\Ch1-Getting-Started</Filter>
+    </ClCompile>
+    <ClCompile Include="consoleinteraction.cpp">
+      <Filter>Source Files\Ch1-Getting-Started</Filter>
+    </ClCompile>
+    <ClCompile Include="usingvariables.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
