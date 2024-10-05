@@ -33,13 +33,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\wlhps\Desktop\simpleprogram.cpp">
-      <Filter>Source Files\Ch1-Getting-Started</Filter>
-    </ClCompile>
     <ClCompile Include="consoleinteraction.cpp">
       <Filter>Source Files\Ch1-Getting-Started</Filter>
     </ClCompile>
     <ClCompile Include="usingvariables.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="simpleprogram.cpp">
+      <Filter>Source Files\Ch1-Getting-Started</Filter>
+    </ClCompile>
+    <ClCompile Include="typeinference.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="preproceessordirectives.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="arrays.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="strings.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="typecasting.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="typecastingexamples.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="enumerations.cpp">
+      <Filter>Source Files\Ch2-Data-Types</Filter>
+    </ClCompile>
+    <ClCompile Include="calculateanaverage.cpp">
       <Filter>Source Files\Ch2-Data-Types</Filter>
     </ClCompile>
   </ItemGroup>

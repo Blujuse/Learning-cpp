@@ -19,12 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\wlhps\Desktop\simpleprogram.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="arrays.cpp" />
+    <ClCompile Include="calculateanaverage.cpp" />
     <ClCompile Include="consoleinteraction.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="enumerations.cpp" />
+    <ClCompile Include="preproceessordirectives.cpp" />
+    <ClCompile Include="simpleprogram.cpp" />
+    <ClCompile Include="strings.cpp" />
+    <ClCompile Include="typecasting.cpp" />
+    <ClCompile Include="typecastingexamples.cpp" />
+    <ClCompile Include="typeinference.cpp" />
     <ClCompile Include="usingvariables.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

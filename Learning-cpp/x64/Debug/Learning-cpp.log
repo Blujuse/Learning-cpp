@@ -1,2 +1,3 @@
-﻿  consoleinteraction.cpp
+﻿  calculateanaverage.cpp
+E:\University Work\Self Learning\Learning-cpp\Learning-cpp\calculateanaverage.cpp(23,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Learning-cpp.vcxproj -> E:\University Work\Self Learning\Learning-cpp\x64\Debug\Learning-cpp.exe
